@@ -18,4 +18,4 @@ This project implements an **Electronic Voting Machine (EVM)** using **Verilog H
 - **7-Segment Display / LEDs** (For displaying vote counts)  
 - **Debounce Circuit** (For stable button press detection)  
 
-## 📜 Code Structure  
+
